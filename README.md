@@ -109,7 +109,7 @@ The kind of details that matter when things break at 2am.
 
 ## 📬 let's talk
 
-Open to conversations about interesting problems, full-time roles.
+Open to conversations about interesting problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitha--gangavarapu-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitha-gangavarapu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankithadeviportfolio.netlify.app-1D9E75?style=flat-square)](https://ankithadeviportfolio.netlify.app/)
