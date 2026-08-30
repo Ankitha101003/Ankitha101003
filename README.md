@@ -15,14 +15,17 @@
 </p>
 
 ---
+My Journey ->
 
-**Part one:** B.Tech CS @ SRM India. learned to code, fell into ML, didn't look back.
+B.Tech CS @ SRM India. learned to code, fell into ML, didn't look back.
 
-**Part two:** MS Computer Science @ **Arizona State University** 🌵 — GPA 3.7, specializing in ML systems and cloud infrastructure. the problems got harder. I got better.
+MS Computer Science @ **Arizona State University** 🌵 — GPA 3.7, specializing in ML systems and cloud infrastructure. 
 
-I don't just train models. I deploy them, benchmark them, and make sure they survive contact with real traffic.
-And I'd rather spend a week understanding a system deeply than ship something I can't explain.
+Lately, I’ve been messing around with open source — contributing, experimenting, and breaking things just to see what happens.
 
+I like taking models out of the notebook and seeing what happens in the real world — deploy them, stress-test them, break them, fix them, repeat.
+
+I’m also very much a “wait, but how does this actually work?” person. I’d rather go down a rabbit hole than ship something I can’t explain.
 ---
 
 ## 🛠️ what I work with
@@ -60,24 +63,6 @@ Full augmentation pipeline. Evaluated on Dice, Hausdorff distance, and per-class
 
 ---
 
-### ⚡ Distributed Rate Limiter Service
-Three algorithms (Token Bucket, Sliding Window Log, Fixed Window Counter) in one service.
-Redis atomic Lua scripts for race-condition-free counters — **sub-millisecond p99 latency, 10K+ req/s per node**.
-Deployed on EC2 behind an ALB. Load tested with Locust until it stopped being interesting.
-
-`Python` `FastAPI` `Redis` `Docker` `AWS EC2` → *(repo coming soon)*
-
----
-
-### 🔗 URL Shortener with Real-Time Analytics
-5,000+ redirects/minute under load. Read-through Redis cache with stampede prevention — **90% drop in database reads**.
-Live WebSocket analytics dashboard. Click logs archived to S3, Athena-queryable Parquet partitions.
-Built the base-62 encoding and collision-resistant ID scheme myself. Yes, there are tests.
-
-`Python` `FastAPI` `PostgreSQL` `Redis` `AWS S3` `WebSockets` → *(repo coming soon)*
-
----
-
 ### 💬 Real-Time Serverless Chat App
 React + AWS serverless (API Gateway WebSockets, Lambda, DynamoDB). Built during my internship at Augusta Hitech, shipped to production.
 Exponential backoff. Idempotent handlers. Custom CloudWatch metrics.
@@ -101,10 +86,8 @@ The kind of details that matter when things break at 2am.
 
 ## 📬 let's talk
 
-Open to conversations about interesting problems.
+Always up for a conversation! :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitha--gangavarapu-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitha-gangavarapu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankithadeviportfolio.netlify.app-1D9E75?style=flat-square)](https://ankithadeviportfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-ankithadevig@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankithadevig@gmail.com)
-
-*scroll down — the repos are right there* 👇
