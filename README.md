@@ -18,18 +18,10 @@
 
 **Part one:** B.Tech CS @ SRM India. learned to code, fell into ML, didn't look back.
 
-**Part two *(ongoing)*:** MS Computer Science @ **Arizona State University** 🌵 — GPA 3.7, specializing in ML systems and cloud infrastructure. the problems got harder. I got better.
+**Part two:** MS Computer Science @ **Arizona State University** 🌵 — GPA 3.7, specializing in ML systems and cloud infrastructure. the problems got harder. I got better.
 
 I don't just train models. I deploy them, benchmark them, and make sure they survive contact with real traffic.
 And I'd rather spend a week understanding a system deeply than ship something I can't explain.
-
----
-
-## 🎯 what I'm building toward
-
-Full-time roles starting **May 2026** — ML Engineer · AI Engineer · Backend SWE · MLOps
-
-I'm most at home when the problem lives at the boundary of *does the model work* and *will it hold up at 10K requests/second.* Both matter. Most people only care about one.
 
 ---
 
@@ -101,7 +93,7 @@ The kind of details that matter when things break at 2am.
 
 🏋️ **sports & fitness are my reset button** — when I need to stop using my brain, I go move my body. no spreadsheet, no optimization, just effort. it's the one part of my life I deliberately keep unanalyzed.
 
-🎬 **I binge movies and documentaries** — I binge watch a lott, can't help it. horror is my genre of choice (yes, I will always suggest the horror movie). I'm great at horror movie nights.
+🎬 **I binge movies and series** — I binge watch a lott, can't help it. horror is my genre of choice (yes, I will always suggest the horror movie). I'm great at horror movie nights.
 
 🎲 friends & mindless fun are mandatory — I don't care what we're doing as long as it's fun and nobody's overthinking it. no itinerary, no plan, just show up and figure it out. best kind of hangout.
 
@@ -115,4 +107,4 @@ Open to conversations about interesting problems.
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankithadeviportfolio.netlify.app-1D9E75?style=flat-square)](https://ankithadeviportfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-ankithadevig@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankithadevig@gmail.com)
 
-*scroll down — the repos are right there and I will stand behind every line of code* 👇
+*scroll down — the repos are right there* 👇
