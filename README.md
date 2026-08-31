@@ -7,13 +7,6 @@
   />
 </a>
 
-<br><br>
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif"
-  width="300"
-  alt="coding animation"
-/>
 
 </div>
 
