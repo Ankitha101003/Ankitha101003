@@ -75,7 +75,7 @@ Languages   →  Python · Java · JavaScript · SQL · C
 <div align="center">
 
 <img
-  src="https://meme-proxy-indol.vercel.app/api/meme"
+  src="https://meme-proxy-git-main-mrspam389.vercel.app/api/meme"
   width="400"
   alt="random meme"
 />
