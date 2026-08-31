@@ -75,14 +75,11 @@ Languages   →  Python · Java · JavaScript · SQL · C
 <div align="center">
 
 <img
-  src="https://your-vercel-url.vercel.app/api/meme"
-  width="500"
+  src="https://meme-proxy-indol.vercel.app/api/meme"
+  width="400"
   alt="random meme"
 />
 
-<br>
-
-<sub>the algorithm has chosen your meme.</sub>
 
 </div>
 
