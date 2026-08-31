@@ -75,7 +75,7 @@ Languages   →  Python · Java · JavaScript · SQL · C
 <div align="center">
 
 <img
-  src="YOUR_RANDOM_MEME_ENDPOINT"
+  src="https://your-vercel-url.vercel.app/api/meme"
   width="500"
   alt="random meme"
 />
